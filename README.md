@@ -30,3 +30,6 @@ You can run the project by doing this:
 12.Semester values are from 1-8.
 
 <img src="https://github.com/himank3029/Result-Processing-System-in-Java-eclipse-and-postgreSQL/blob/main/Screenshot/student%20form.PNG" width="500" height="400" alt="">
+<img src="https://github.com/himank3029/Result-Processing-System-in-Java-eclipse-and-postgreSQL/blob/main/Screenshot/enter%20marks.PNG" width="500" height="400" alt="">
+<img src="https://github.com/himank3029/Result-Processing-System-in-Java-eclipse-and-postgreSQL/blob/main/Screenshot/show%20marks.PNG" width="500" height="400" alt="">
+<img src="https://github.com/himank3029/Result-Processing-System-in-Java-eclipse-and-postgreSQL/blob/main/Screenshot/result.PNG" width="500" height="400" alt="">
